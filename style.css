@@ -1,0 +1,11 @@
+body{
+
+}
+.container {
+    max-width: 620px;
+    margin: 120px auto;
+    padding: 05px;
+    background: #9f9e9e;
+    border-radius: 05px;
+    box-shadow: 0 0 05px rgba(0, 0, 0, 0.1);
+}
